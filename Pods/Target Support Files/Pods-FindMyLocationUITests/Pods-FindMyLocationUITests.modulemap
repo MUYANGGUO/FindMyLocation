@@ -1,0 +1,6 @@
+framework module Pods_FindMyLocationUITests {
+  umbrella header "Pods-FindMyLocationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
